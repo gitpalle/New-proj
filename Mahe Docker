@@ -1,2 +1,3 @@
 FROM nginx:latest
 COPY . /usr/share/nginx/html
+we have done the project k
